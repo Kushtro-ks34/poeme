@@ -2,5 +2,4 @@
 * rouge 
 * vert
 * bleu
-* jaune
 * rose
